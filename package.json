@@ -14,7 +14,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "npx ts-node src/index.ts",
     "build-program": "cd program && cargo build-bpf && cd ..",
-    "deploy": "mv program/target/deploy/nft_fractionalization.* dist/ && solana deploy dist/nft_fractionalization.so"
+    "deploy-program": "mv program/target/deploy/nft_fractionalization.* dist/ && solana deploy dist/nft_fractionalization.so"
   },
   "repository": {
     "type": "git",
