@@ -1,4 +1,5 @@
-/*-dump.txt
-/*.so
+*-dump.txt
+*.so
+*.json
 /program/target/
 node_modules/
