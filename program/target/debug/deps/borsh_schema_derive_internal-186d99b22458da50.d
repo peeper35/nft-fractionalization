@@ -1,0 +1,10 @@
+/home/komal/rapidinnovation/task/nft-fractionalization/target/debug/deps/borsh_schema_derive_internal-186d99b22458da50.rmeta: /home/komal/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.1/src/lib.rs /home/komal/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.1/src/helpers.rs /home/komal/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.1/src/enum_schema.rs /home/komal/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.1/src/struct_schema.rs
+
+/home/komal/rapidinnovation/task/nft-fractionalization/target/debug/deps/libborsh_schema_derive_internal-186d99b22458da50.rlib: /home/komal/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.1/src/lib.rs /home/komal/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.1/src/helpers.rs /home/komal/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.1/src/enum_schema.rs /home/komal/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.1/src/struct_schema.rs
+
+/home/komal/rapidinnovation/task/nft-fractionalization/target/debug/deps/borsh_schema_derive_internal-186d99b22458da50.d: /home/komal/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.1/src/lib.rs /home/komal/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.1/src/helpers.rs /home/komal/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.1/src/enum_schema.rs /home/komal/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.1/src/struct_schema.rs
+
+/home/komal/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.1/src/lib.rs:
+/home/komal/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.1/src/helpers.rs:
+/home/komal/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.1/src/enum_schema.rs:
+/home/komal/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.9.1/src/struct_schema.rs:
